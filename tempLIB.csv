@@ -1,0 +1,21 @@
+book_id,source_file_path,author,title,chap_regex,label
+5200,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5200.txt,"KAFKA, FRANZ",METAMORPHOSIS,^\s*[IVXLCM]+\s*$,metamorphosis
+5252,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5252.txt,"KAFKA, FRANZ",BLUMFELD,NOCHAPTERS,blumfeld
+5353,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5353.txt,"KAFKA, FRANZ",THE BURROW,NOCHAPTERS,the burrow
+5454,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5454.txt,"KAFKA, FRANZ",JOSEPHINE THE SONGSTRESS,NOCHAPTERS,josephine the songstress
+5555,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5555.txt,"KAFKA, FRANZ",BEFORE THE LAW,NOCHAPTERS,before the law
+5656,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5656.txt,"KAFKA, FRANZ",UP IN THE GALLERY,NOCHAPTERS,up in the gallery
+5757,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5757.txt,"KAFKA, FRANZ",THE HUNTER GRACCHUS,NOCHAPTERS,the hunter gracchus
+5858,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5858.txt,"KAFKA, FRANZ",THE GREAT WALL OF CHINA,NOCHAPTERS,the great wall of china
+5959,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg5959.txt,"KAFKA, FRANZ",A REPORT FOR AN ACADEMY,NOCHAPTERS,a report for an academy
+6060,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6060.txt,"KAFKA, FRANZ",DEAREST FATHER,NOCHAPTERS,dearest father
+6161,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6161.txt,"KAFKA, FRANZ",THE JUDGEMENT,NOCHAPTERS,the judgement
+6262,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6262.txt,"KAFKA, FRANZ",AMERIKA,^\s*\d+\s*$,amerika
+6363,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6363.txt,"KAFKA, FRANZ",IN THE PENAL COLONY,NOCHAPTERS,in the penal colony
+6464,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6464.txt,"KAFKA, FRANZ",THE HUNGER ARTIST,NOCHAPTERS,the hunger artist
+6565,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6565.txt,"KAFKA, FRANZ",THE JACKALS AND ARABS,NOCHAPTERS,the jackals and arabs
+6666,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6666.txt,"KAFKA, FRANZ",A COUNTRY DOCTOR,NOCHAPTERS,a country doctor
+6767,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6767.txt,"KAFKA, FRANZ",AN IMPERIAL MESSAGE,NOCHAPTERS,an imperial message
+6969,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg6969.txt,"KAFKA, FRANZ",THE CASTLE,^\s*\d+\s*$,the castle
+7849,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg7849.txt,"KAFKA, FRANZ",THE TRIAL,^\s*Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)\s*$,the trial
+23532,/Users/muhur/OneDrive/Desktop/Muhurto/Data Science Grad School/DS5001/KafkaFinal/data\pg23532.txt,"KAFKA, FRANZ",MEDITATION,^(Children on the country road|Unmasking a con artist|The Sudden Walk|Resolutions|The trip to the mountains|The Bachelor's Misfortune|The Merchant|Distracted Looking Out|The Way Home|The Passers-by|Passenger|Dresses|The rejection|Food for thought for gentlemen riders|The Alley Window|Desire to become an Indian|The Trees|Unhappiness)$,meditation
